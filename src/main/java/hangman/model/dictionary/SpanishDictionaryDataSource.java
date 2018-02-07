@@ -22,6 +22,7 @@ public class SpanishDictionaryDataSource extends HangmanDictionary {
         "PROGRAMA"
     };
 
+
     public SpanishDictionaryDataSource() {
         setAvalariableWords(Arrays.asList(words));
     }
